@@ -5,6 +5,8 @@
 ## How to Run
 1. Replace `api_id` and `api_hash` of your Telegram account in [config.ini](config.ini). (You can obtain an API id for your Telegram account from [here](https://core.telegram.org/api/obtaining_api_id))
 2. Install the required libraries mentioned in the [requirements.txt](requirements.txt).
+
+       pip3 install -r requirements.txt
 3. Run [main.py](main.py).
 
 ## How to Use
