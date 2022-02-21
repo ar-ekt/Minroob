@@ -1,9 +1,9 @@
 # Minroob
-- An auto play program for [@minroobot](https://telegram.me/minroobot "@minroobot") telegram bot games with connecting to your telegram account.
-- Used [pyrogram](https://github.com/pyrogram/pyrogram "pyrogram") framework for the part of interact with telegram.
+- An auto play program for [@minroobot](https://telegram.me/minroobot "@minroobot") Telegram bot games with connecting to your Telegram account.
+- Used [pyrogram](https://github.com/pyrogram/pyrogram "pyrogram") framework for the part of interacting with Telegram.
 
 ## How to Run
-1. Replace `api_id` and `api_hash` of your telegram account in [config.ini](config.ini). (You can obtain an API id for your telegram account from [here](https://core.telegram.org/api/obtaining_api_id))
+1. Replace `api_id` and `api_hash` of your Telegram account in [config.ini](config.ini). (You can obtain an API id for your Telegram account from [here](https://core.telegram.org/api/obtaining_api_id))
 2. Install the required libraries mentioned in the [requirements.txt](requirements.txt).
 3. Run [main.py](main.py).
 
